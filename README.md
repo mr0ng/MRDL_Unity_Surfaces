@@ -16,6 +16,9 @@ You can use this project's components to create your own mixed reality app exper
 <img src="External/ReadMeImages/MRDL_Surfaces_6.jpg" alt="Surfaces">
 <img src="External/ReadMeImages/MRDL_Surfaces_7.jpg" alt="Surfaces">
 
+# Session video from Mixed Reality Dev Days 2020
+Learn about design & development story.
+https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Learnings-from-the-MR-Surfaces-App
 
 # Supported Unity version
 The current supported version of Unity is [**Unity 2019.3.x**](https://unity3d.com/unity/qa/lts-releases?version=2019.2). 
@@ -28,13 +31,12 @@ The project is based on [**MRTK v2.1.0**](https://github.com/microsoft/MixedReal
 
 
 # More from Mixed Reality Design Labs #
-## Sample app - Lunar Module ##
-<img src="https://github.com/Microsoft/MRDesignLabs_Unity_LunarModule/blob/master/External/ReadMeImages/LM_hero.jpg" alt="Lunar Module sample app">
-https://github.com/Microsoft/MRDesignLabs_Unity_LunarModule
+## Sample app - Periodic Table of the Elements ##
+<img src="https://github.com/Microsoft/MRDesignLabs_Unity_PeriodicTable/blob/master/External/ReadMeImages/PeriodicTable_Hero.jpg" alt="Periodic Table of the Elements">
 
-Lunar Module is a open-source sample app from Microsoft's Mixed Reality Design Labs, it is a spiritual sequel to the 1979 Atari classic, *Lunar Lander*. This sample app will demonstrate how to extend Hololens' base gestures with two hand tracking and xbox controller input, reactive objects to surface mapping and plane finding, and simple menu systems. You can use this project's components to create your own mixed reality app experience. 
+https://github.com/microsoft/MRDL_Unity_PeriodicTable
 
-
+Periodic Table of the Elements is an open-source sample app from Microsoft's Mixed Reality Design Labs. It demonstrates how to use **[Mixed Reality Toolkit(MRTK)](https://github.com/Microsoft/MixedRealityToolkit-Unity)**'s input system and building blocks to create an app experience for HoloLens and Immersive headsets.
 
 
 # Contributing
